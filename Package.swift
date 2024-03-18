@@ -325,203 +325,203 @@ let package = Package(
     ),
     .binaryTarget(
       name: "_AppAuth",
-      path: "xcframework/_AppAuth.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/https://github.com/joylin66/firebase/blob/release/xcframework/_AppAuth.xcframework.zip"
     ),
     .binaryTarget(
       name: "_BoringSSL-GRPC",
-      path: "xcframework/_BoringSSL-GRPC.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/https://github.com/joylin66/firebase/blob/release/xcframework/_BoringSSL-GRPC.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FBLPromises",
-      path: "xcframework/_FBLPromises.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/https://github.com/joylin66/firebase/blob/release/xcframework/_FBLPromises.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseABTesting",
-      path: "xcframework/_FirebaseABTesting.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseABTesting.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseAnalytics",
-      path: "xcframework/_FirebaseAnalytics.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseAnalytics.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseAnalyticsOnDeviceConversion",
-      path: "xcframework/_FirebaseAnalyticsOnDeviceConversion.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseAnalyticsOnDeviceConversion.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseAnalyticsSwift",
-      path: "xcframework/_FirebaseAnalyticsSwift.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseAnalyticsSwift.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseAppCheck",
-      path: "xcframework/_FirebaseAppCheck.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseAppCheck.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseAppCheckInterop",
-      path: "xcframework/_FirebaseAppCheckInterop.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseAppCheckInterop.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseAppDistribution",
-      path: "xcframework/_FirebaseAppDistribution.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseAppDistribution.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseAuth",
-      path: "xcframework/_FirebaseAuth.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseAuth.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseAuthInterop",
-      path: "xcframework/_FirebaseAuthInterop.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseAuthInterop.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseCore",
-      path: "xcframework/_FirebaseCore.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseCore.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseCoreExtension",
-      path: "xcframework/_FirebaseCoreExtension.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseCoreExtension.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseCoreInternal",
-      path: "xcframework/_FirebaseCoreInternal.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseCoreInternal.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseCrashlytics",
-      path: "xcframework/_FirebaseCrashlytics.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseCrashlytics.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseDatabase",
-      path: "xcframework/_FirebaseDatabase.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseDatabase.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseDatabaseSwift",
-      path: "xcframework/_FirebaseDatabaseSwift.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseDatabaseSwift.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseDynamicLinks",
-      path: "xcframework/_FirebaseDynamicLinks.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseDynamicLinks.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseFirestore",
-      path: "xcframework/_FirebaseFirestore.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseFirestore.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseFirestoreSwift",
-      path: "xcframework/_FirebaseFirestoreSwift.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseFirestoreSwift.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseFunctions",
-      path: "xcframework/_FirebaseFunctions.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseFunctions.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseInAppMessaging",
-      path: "xcframework/_FirebaseInAppMessaging.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseInAppMessaging.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseInAppMessagingSwift",
-      path: "xcframework/_FirebaseInAppMessagingSwift.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseInAppMessagingSwift.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseInstallations",
-      path: "xcframework/_FirebaseInstallations.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseInstallations.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseMLModelDownloader",
-      path: "xcframework/_FirebaseMLModelDownloader.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseMLModelDownloader.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseMessaging",
-      path: "xcframework/_FirebaseMessaging.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseMessaging.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseMessagingInterop",
-      path: "xcframework/_FirebaseMessagingInterop.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseMessagingInterop.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebasePerformance",
-      path: "xcframework/_FirebasePerformance.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebasePerformance.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseRemoteConfig",
-      path: "xcframework/_FirebaseRemoteConfig.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseRemoteConfig.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseRemoteConfigSwift",
-      path: "xcframework/_FirebaseRemoteConfigSwift.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseRemoteConfigSwift.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseSharedSwift",
-      path: "xcframework/_FirebaseSharedSwift.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseSharedSwift.xcframework.zip"
     ),
     .binaryTarget(
       name: "_FirebaseStorage",
-      path: "xcframework/_FirebaseStorage.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_FirebaseStorage.xcframework.zip"
     ),
     .binaryTarget(
       name: "_GTMAppAuth",
-      path: "xcframework/_GTMAppAuth.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_GTMAppAuth.xcframework.zip"
     ),
     .binaryTarget(
       name: "_GTMSessionFetcher",
-      path: "xcframework/_GTMSessionFetcher.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_GTMSessionFetcher.xcframework.zip"
     ),
     .binaryTarget(
       name: "_GoogleAppMeasurement",
-      path: "xcframework/_GoogleAppMeasurement.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_GoogleAppMeasurement.xcframework.zip"
     ),
     .binaryTarget(
       name: "_GoogleAppMeasurementIdentitySupport",
-      path: "xcframework/_GoogleAppMeasurementIdentitySupport.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_GoogleAppMeasurementIdentitySupport.xcframework.zip"
     ),
     .binaryTarget(
       name: "_GoogleAppMeasurementOnDeviceConversion",
-      path: "xcframework/_GoogleAppMeasurementOnDeviceConversion.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_GoogleAppMeasurementOnDeviceConversion.xcframework.zip"
     ),
     .binaryTarget(
       name: "_GoogleDataTransport",
-      path: "xcframework/_GoogleDataTransport.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_GoogleDataTransport.xcframework.zip"
       ),
     .binaryTarget(
       name: "_GoogleMobileAds",
-      path: "xcframework/_GoogleMobileAds.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_GoogleMobileAds.xcframework.zip"
     ),
     .binaryTarget(
       name: "_GoogleSignIn",
-      path: "xcframework/_GoogleSignIn.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_GoogleSignIn.xcframework.zip"
     ),
     .binaryTarget(
       name: "_GoogleUtilities",
-      path: "xcframework/_GoogleUtilities.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_GoogleUtilities.xcframework.zip"
     ),
     .binaryTarget(
       name: "_Libuv-gRPC",
-      path: "xcframework/_Libuv-gRPC.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_Libuv-gRPC.xcframework.zip"
     ),
     .binaryTarget(
       name: "_SwiftProtobuf",
-      path: "xcframework/_SwiftProtobuf.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_SwiftProtobuf.xcframework.zip"
     ),
     .binaryTarget(
       name: "_UserMessagingPlatform",
-      path: "xcframework/_UserMessagingPlatform.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_UserMessagingPlatform.xcframework.zip"
     ),
     .binaryTarget(
       name: "_abseil",
-      path: "xcframework/_abseil.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_abseil.xcframework.zip"
     ),
     .binaryTarget(
       name: "_gRPC-C++",
-      path: "xcframework/_gRPC-C++.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_gRPC-C++.xcframework.zip"
     ),
     .binaryTarget(
       name: "_gRPC-Core",
-      path: "xcframework/_gRPC-Core.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_gRPC-Core.xcframework.zip"
     ),
     .binaryTarget(
       name: "_leveldb-library",
-      path: "xcframework/_leveldb-library.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_leveldb-library.xcframework.zip"
     ),
     .binaryTarget(
       name: "_nanopb",
-      path: "xcframework/_nanopb.xcframework.zip"
+      path: "https://github.com/joylin66/firebase/blob/release/xcframework/_nanopb.xcframework.zip"
     )
   ]
 )
